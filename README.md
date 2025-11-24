@@ -243,7 +243,7 @@ Aguarde o upload
 
 Continue executando o notebook normalmente
 
-📂 9. Estrutura do Repositório
+📂 Estrutura do Repositório
 ├── README.md                       → Documentação principal do projeto
 ├── projeto.db                      → Dataset tratado e compactado (96 mil linhas, 2019–2020)
 └── Projeto-risco-de-credito.ipynb  → Notebook completo com EDA, SQL e ML (bônus)
