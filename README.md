@@ -45,7 +45,7 @@ O projeto foi estruturado em cinco grandes fases, replicando um fluxo profission
 O arquivo projeto.db, disponibilizado neste repositório, não é o dataset original do Lending Club.
 Ele já está tratado, filtrado e compactado, resultado do processamento feito no DB Browser for SQLite, onde:
 
-Reduzi o dataset original de mais de 1.000.000 de linhas para 96.000 linhas
+Reduzi o dataset original de mais de 1.000.000 de linhas para 98.000 linhas
 
 Filtrei somente os anos 2019 e 2020
 
@@ -245,6 +245,6 @@ Continue executando o notebook normalmente
 
 📂 Estrutura do Repositório
 ├── README.md                       → Documentação principal do projeto
-├── projeto.db                      → Dataset tratado e compactado (96 mil linhas, 2019–2020)
+├── projeto.db                      → Dataset tratado e compactado (98 mil linhas, 2019–2020)
 └── Projeto-risco-de-credito.ipynb  → Notebook completo com EDA, SQL e ML (bônus)
 
